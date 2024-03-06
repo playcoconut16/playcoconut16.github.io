@@ -11135,11 +11135,11 @@ a:hover, a:focus, a:active,
 	
 }
 
-.description {
-	position: absolute;
-	left: 0;
-	top: 50%;
-	transform: translateY(-50%);
-	padding-left: 10px; /* Espacio entre el borde izquierdo y el texto */
-}
 
+.description{
+color: white;
+
+}
+.description a:hover{
+	color: blue;
+}
