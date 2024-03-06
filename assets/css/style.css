@@ -11141,7 +11141,7 @@ a:hover, a:focus, a:active,
 }
 
 .icon-description {
-    margin-right: 500px; /* Ajusta el espacio entre la descripción y el icono */
+    margin-right: 10px; /* Ajusta el espacio entre la descripción y el icono */
     color: white;
    
 }
