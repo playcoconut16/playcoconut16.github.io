@@ -11135,17 +11135,11 @@ a:hover, a:focus, a:active,
 	
 }
 
-.mobile-logo a {
-    display: flex;
-    align-items: center; /* Alinea verticalmente los elementos */
-}
-
-.icon-description {
-    margin-left: 100px; /* Ajusta el espacio entre la descripción y el icono */
-    color: white;
-  
-}
-.icon-description:hover{
-	color: blue;
+.description {
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	padding-left: 10px; /* Espacio entre el borde izquierdo y el texto */
 }
 
